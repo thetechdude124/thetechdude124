@@ -10,7 +10,7 @@ Here's a bit about me:
 
 Check out my full portfolio here: https://tks.life/profile/aditya.dewan#portfolio
 
-And, **check out my (monthly newsletter)[https://adityadewan.substack.com/]!** I give monthly updates on personal progress, key Deep Learning progress, goals/insights, and more. 
+And, **check out my** (**monthly newsletter**)[https://adityadewan.substack.com/]**! I give monthly updates on personal progress, key Deep Learning projects, goals/insights, and more.** 
 
 Find me on:
 - [LinkedIn](https://www.linkedin.com/in/aditya-dewan-7711b91b3/)
