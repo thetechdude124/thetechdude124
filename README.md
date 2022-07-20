@@ -21,3 +21,4 @@ Find me on:
 Check out my projects below, and stay tuned!
 
 (P.S. - there's a huge gap in the contribution graph below, mainly because my Actionable and personal accounts are different 😁). 
+(P.S. 2 - I've also made a bunch of games for school projects (some of which I'm proud of). Check them out [here](https://studio.code.org/projects/applab/bli5PZ6ov5mz1xSAGDkBVxXKA5EU01mawbWpct7SAMg)!
