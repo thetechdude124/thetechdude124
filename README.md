@@ -1,6 +1,6 @@
 ## 💡A quick introduction...
 
-Hey there! I'm Aditya, and I'm a 16-year-old sophomore in the enhanced program at the Woodlands Secondary School + The Knowledge Society alumni.
+Hey there! I'm Aditya, and I'm a 17-year-old junior in the enhanced program at the Woodlands Secondary School + The Knowledge Society alumni.
 
 Here's a bit about me:
 
