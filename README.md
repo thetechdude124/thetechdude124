@@ -1,25 +1,21 @@
-## 💡A quick introduction...
+## 💡An Introduction.
 
-Hey there! I'm Aditya, and I'm a 17-year-old junior in the enhanced program at the Woodlands Secondary School + The Knowledge Society alumni.
+Hey. I'm Aditya, and I'm a 17 year old senior at the enhanced program at the Woodlands Secondary School + The Knowledge Society alumni.
 
-Here's a bit about me:
+I'm an aspiring deep learning researcher working towards mastery both in the field and beyond. My mission is to leverage artificial intelligence to create tangible impact on difficult, real-world problems. Currently building better knowledge distillation methods to expand neural network reach in low-compute settings for those who need it most - accelerating ML impact on critical real-world problems in the 21st century.
 
-- 🔬**Machine learning specialist at [Actionable.co](http://actionable.co/)**, working on a recommendation engine to boost ACP impact.
-- 🤖 **Aspiring Deep Learning Researcher** - working to understand deep learning from first principles and innovate in the field (check out my work on BANs, Adam optimization, autonomous vehicles, and more)!
-- 💡Learning new things! Reach out for anything DL related - looking to learn, grow, and make 10x global impact. Love hacking and anything to do with code :D
+Key goals:
+Producing groundbreaking, field-accelerating AI research.
+Changing the lives of one billion people by solving critical problems.
+Crafting high-standards, excellent work in all tasks and endeavours. 
+Becoming the absolute best possible version of myself possible.
 
-Check out my full portfolio here: https://tks.life/profile/aditya.dewan#portfolio
+Check out my website (http://adityadewan.com/) and subscribe to my newsletter (linked on the site) for my full portfolio and resume.
 
-And, **check out my [monthly newsletter](https://adityadewan.substack.com/)! I give monthly updates on personal progress, key Deep Learning projects, goals/insights, and more.** 
+Here's what I'm currently doing:
 
-Find me on:
-- [LinkedIn](https://www.linkedin.com/in/aditya-dewan-7711b91b3/)
-- [Twitter](https://twitter.com/adidewan124)
-- [Medium](https://medium.com/@aditya-dewan124)
-- [YouTube](https://www.youtube.com/channel/UCxDpgZAUS7oKCUTkCSxznOw)
+- Junior Machine Learning Developer at The Rounds, working on LLM R&D.
+- Working on enhanced knowledge distillation methods (continuing my research from Team Canada-ISEF 2023).
+- Founding the Woodlands Research Institute.
 
-Check out my projects below, and stay tuned!
-
-(P.S. - there's a huge gap in the contribution graph below, mainly because my Actionable and personal accounts are different 😁). 
-
-(P.S. 2 - I've also made a bunch of games for school projects (some of which I'm proud of). Check them out [here](https://studio.code.org/projects/applab/bli5PZ6ov5mz1xSAGDkBVxXKA5EU01mawbWpct7SAMg)!)
+Most of my work is on Google Colab rather than GitHub. Feel free to check out my website, and let me know your thoughts!
