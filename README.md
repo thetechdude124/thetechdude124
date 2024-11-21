@@ -1,6 +1,6 @@
 ## 💡An Introduction.
 
-Hey. I'm Aditya, and I'm an 18 year old senior at the enhanced program at Carnegie Mellon University's School of Computer Science.
+Hey. I'm Aditya, and I'm a freshman at Carnegie Mellon University's School of Computer Science.
 
 I'm an aspiring deep learning researcher working towards mastery both in the field and beyond. My mission is to leverage artificial intelligence to create tangible impact on difficult, real-world problems. Currently building better knowledge distillation methods to expand neural network reach in low-compute settings for those who need it most - accelerating ML impact on critical real-world problems in the 21st century.
 
