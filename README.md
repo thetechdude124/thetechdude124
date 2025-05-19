@@ -12,10 +12,4 @@ Becoming the absolute best possible version of myself possible.
 
 Check out my website (http://adityadewan.com/) and subscribe to my newsletter (linked on the site) for my full portfolio and resume.
 
-Here's what I'm currently doing:
-
-- Junior Machine Learning Developer at The Rounds, working on LLM R&D.
-- Working on enhanced knowledge distillation methods (continuing my research from Team Canada-ISEF 2023).
-- Founding the Woodlands Research Institute.
-
 Most of my work is on Google Colab rather than GitHub. Feel free to check out my website, and let me know your thoughts!
